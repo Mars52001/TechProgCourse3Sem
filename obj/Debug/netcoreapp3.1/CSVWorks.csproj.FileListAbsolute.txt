@@ -1,0 +1,8 @@
+K:\projects\Course\CSVWorks\bin\Debug\netcoreapp3.1\CSVWorks.deps.json
+K:\projects\Course\CSVWorks\bin\Debug\netcoreapp3.1\CSVWorks.dll
+K:\projects\Course\CSVWorks\bin\Debug\netcoreapp3.1\CSVWorks.pdb
+K:\projects\Course\CSVWorks\obj\Debug\netcoreapp3.1\CSVWorks.AssemblyInfoInputs.cache
+K:\projects\Course\CSVWorks\obj\Debug\netcoreapp3.1\CSVWorks.AssemblyInfo.cs
+K:\projects\Course\CSVWorks\obj\Debug\netcoreapp3.1\CSVWorks.csproj.CoreCompileInputs.cache
+K:\projects\Course\CSVWorks\obj\Debug\netcoreapp3.1\CSVWorks.dll
+K:\projects\Course\CSVWorks\obj\Debug\netcoreapp3.1\CSVWorks.pdb
